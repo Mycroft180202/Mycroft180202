@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nhat and I'm a backend developer<br>- 🌱 I’m currently learning .NET, SpringBoot and android programing  <br>- ❓ Ask me about anything related to .NET, SpringBoot and related technologies</h2>
+<h2 align="left">Hi 👋! My name is Nhat and I'm a backend developer<br> 🌱 I’m currently learning .NET, SpringBoot and android programing  <br> ❓ Ask me about anything related to .NET, SpringBoot and related technologies</h2>
 
 ###
 
